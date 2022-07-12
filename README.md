@@ -72,6 +72,10 @@ Used in project:
 -  [Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 -  [PostgreSQL 14](https://www.postgresql.org/docs/14/index.html)
 -  [Swagger](https://swagger.io/docs/specification/about/)  
+-  [TypeORM](https://typeorm.io/)  
+-  [GraphQL](https://graphql.org/)
+-  [NestJS Configuration Environments](https://docs.nestjs.com/techniques/configuration)
+
 
 ## Stay in touch
 
