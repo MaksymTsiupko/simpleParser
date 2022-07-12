@@ -49,6 +49,8 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+If you want use Swagger - open link http://localhost:3000/api/#/posts/ after runnning the app.
+
 ## Test
 
 ```bash
@@ -64,7 +66,12 @@ $ npm run test:cov
 
 ## Support
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+SimpleParser is an Apache2.0-licensed open source project. 
+Used in project:
+-  [NestJS](https://docs.nestjs.com/)
+-  [Docker](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+-  [PostgreSQL 14](https://www.postgresql.org/docs/14/index.html)
+-  [Swagger](https://swagger.io/docs/specification/about/)  
 
 ## Stay in touch
 
