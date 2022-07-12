@@ -68,10 +68,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 ## Stay in touch
 
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
+- Author - [Maksym Tsiupko](https://www.linkedin.com/in/maksym-tsiupko-99853b137/)
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+SimpleParser is [Apache 2.0 licensed](LICENSE).
